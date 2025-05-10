@@ -1,0 +1,6 @@
+Goldstein - alpha:1.0 - iterations : 20
+
+Goldstein-Price - alpha:0.0 - iterations : 8
+
+Wolfe-Powell - alpha:0.0 - iterations : 8
+

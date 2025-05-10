@@ -1,0 +1,24 @@
+Problem a:
+
+Golden Section Search - Minimum value: -1.125 at 0.257 - iterations : 8
+
+Fibonacci Search - Minimum value: -1.125 at 0.265 - iterations : 7
+
+Bisection Search - Minimum value: -1.124 at 0.234 - iterations : 6
+
+Dichotomous Search - Minimum value: -1.125 at 0.254 - iterations : 7
+
+Shubert-Piyavskii - Minimum value: -0.97 at -0.028 - iterations : 3
+
+Problem b:
+
+Golden Section Search - Minimum value: -39.88 at 3.609 - iterations : 12
+
+Fibonacci Search - Minimum value: -39.879 at 3.614 - iterations : 12
+
+Bisection Search - Minimum value: -39.88 at 3.589 - iterations : 9
+
+Dichotomous Search - Minimum value: -39.88 at 3.591 - iterations : 10
+
+Shubert-Piyavskii - Minimum value: -1.0 at 0 - iterations : 1
+
